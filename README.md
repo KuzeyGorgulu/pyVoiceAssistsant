@@ -57,7 +57,7 @@ If you would like to contribute, please submit a pull request or open an issue.
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the (LICENSE)[https://github.com/KuzeyGorgulu/pyVoiceAssistsant/tree/main?tab=MIT-1-ov-file] file.
+This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/KuzeyGorgulu/pyVoiceAssistsant/tree/main?tab=MIT-1-ov-file) file.
 
 ---
 
